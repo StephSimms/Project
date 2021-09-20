@@ -1,0 +1,12 @@
+/*-----------------------
+Author:Stephanie Simms
+Module 3 Assignment
+---------------------*/
+
+body {
+    background-color: lightblue;
+}
+
+div {
+    border-width: 2px; color: red; border-style: dashed;
+}
