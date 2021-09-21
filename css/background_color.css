@@ -7,6 +7,10 @@ body {
     background-color: lightblue;
 }
 
-div {
+img {
     border-width: 2px; color: red; border-style: dashed;
+}
+
+p {
+    font-weight: bold;
 }
