@@ -2,21 +2,22 @@
     Author:Stephanie Simms
     One Page Website Assignment
 -----------------------------------*/
-#name{
-    color:red;
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65;
 }
 
-.name1 {
-    color: black;
+body {
+    font-size: 18px;
+    margin: 0;
+    font-family: fantasy;
+    color: aquamarine;
+    background-color: dimgrey;
 }
 
 input {
-    border: 2px solid black;
-    padding: 30px;
-    font-size: 30px;
-    margin-left: 30px;
-    border-radius: 0px;
-    border: black;
-    
-
+    width: 25%;
+    margin: 10px;
+    border-radius: 15%;
+    border-width: 10px black;
 }
